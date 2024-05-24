@@ -8,10 +8,8 @@
             alt="Santosh0805" /> </p> -->
 
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
-I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough
-to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient
-code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web
-developer.
+
+As a dedicated Full Stack Web Developer, I thrive on crafting innovative web applications. With a keen enthusiasm for coding and a relentless drive to learn and explore new technologies, I am adept at writing clean, efficient code. I am eager to take on a challenging and impactful role in an organization where I can contribute my skills and grow as a full-stack developer
 
 <br>
 <br>
