@@ -3,33 +3,41 @@
     technologies. My goal is to create seamless and responsive web applications that deliver exceptional user
     experiences.</h3>
 
-align="left"> <img
-            src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
-            alt="Santosh0805" /> </p>
 
-<br>
 
-As a dedicated Full Stack Web Developer, I thrive on crafting innovative web applications. With a keen enthusiasm for coding and a relentless drive to learn and explore new technologies, I am adept at writing clean, efficient code. I am eager to take on a challenging and impactful role in an organization where I can contribute my skills and grow as a full-stack developer
+<p align="left"> <img
+        src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
+        alt="Santosh0805" /> </p>
+
+        <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="450px"  height="300px" />
+
+
+I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough
+to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient
+code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web
+developer.
 
 <br>
 <br>
 
 - 💼 How to reach me **(mailto:sahum3378@gmail.com)** :)
 - 💬 ask me about anything, I would love to help :)
-- 🖇️ All of my projects are available at:- <a href="https://santosh0805.github.io/Portfolio-/" target="_blank">Portfolio</a>
+- 🖇️ All of my projects are available at:- <a href="https://santosh0805.github.io/Portfolio-/"
+    target="_blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://twitter.com/uttammane175677" target="blank"><img align="center"
+    <a href="https://twitter.com/Ssantosh1998" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="uttammane175677" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/uttam-mane-036252291/" target="blank"><img align="center"
+            alt="Santosh kumar" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/santosh-kumar-113503188/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="uttam mane" height="30" width="40" /></a>
-    <a href="https://instagram.com/mr_uttam_mane_101" target="blank"><img align="center"
+            alt="Santosh Kumar" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/mrsantosh.__/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="mr_uttam_mane_101" height="30" width="40" /></a>
+            alt="Santosh Kumar" height="30" width="40" /></a>
 </p>
+
 <hr>
 <hr>
 <h2 align="center"><b>Languages and Tools:</b></h2>
@@ -48,18 +56,21 @@ As a dedicated Full Stack Web Developer, I thrive on crafting innovative web app
 
 <div>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&theme=radical"
-        alt="Santosh kumar" height="250px" width="47%" />
+        alt="Santosh Kumar" height="250px" width="47%" />
+
     <img align="right"
         src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical"
         height="255px" width="47%" />
+
     <div>
         </br>
+
         <div>
             <img align="left"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh0805&theme=radical&langs_count=8"
-                alt="Santosh kumar" height="260px" width="100%" />
+                alt="Santosh Kumar " height="360px" width="100%" />
+
             <img
                 src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-        </div>
-
+        </dir>
     </div>
