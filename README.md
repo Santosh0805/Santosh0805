@@ -3,11 +3,11 @@
     technologies. My goal is to create seamless and responsive web applications that deliver exceptional user
     experiences.</h3>
 
-<!-- <p align="left"> <img
+align="left"> <img
             src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
-            alt="Santosh0805" /> </p> -->
+            alt="Santosh0805" /> </p>
 
-[<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)
+<br>
 
 As a dedicated Full Stack Web Developer, I thrive on crafting innovative web applications. With a keen enthusiasm for coding and a relentless drive to learn and explore new technologies, I am adept at writing clean, efficient code. I am eager to take on a challenging and impactful role in an organization where I can contribute my skills and grow as a full-stack developer
 
