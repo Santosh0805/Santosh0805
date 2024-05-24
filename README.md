@@ -8,10 +8,11 @@
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
         alt="Santosh0805" /> </p>
-<div>
-    
-        <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="450px"  height="300px" />
-</div>
+        <div>
+
+            <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="450px"  height="300px" />
+        </div>
+
 
 
 I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough
@@ -51,28 +52,18 @@ developer.
         alt="javascript" width="55" height="55" />
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55" />
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"
-        marginleft="15" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15" />
     <img src="https://img.icons8.com/?size=96&id=r9QJ0VFFrn7T&format=png" alt="chakra" width="55" height="55" />
 </p></span>
 
 <div>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&theme=radical"
-        alt="Santosh Kumar" height="250px" width="47%" />
-
-    <img align="right"
-        src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical"
-        height="255px" width="47%" />
-
-    <div>
-        </br>
-
-        <div>
-            <img align="left"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh0805&theme=radical&langs_count=8"
-                alt="Santosh Kumar " height="360px" width="100%" />
-
-            <img
-                src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-        </dir>
-    </div>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&theme=radical" alt="santosh kumar" height="250px" width="47%" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical" height="255px" width="47%"/>
+  <div>
+    </br>
+    
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh0805&theme=radical&langs_count=8" alt="santosh kumar" height="260px" width="100%"/>
+  
+    
+   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
