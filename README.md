@@ -10,6 +10,9 @@
         src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
         alt="Santosh0805" /> </p>
 
+        <img align="right" alt="coding" width="410"
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
         <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="250px"  height="150px" />
 
 
