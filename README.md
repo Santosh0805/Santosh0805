@@ -63,7 +63,7 @@ developer.
 
     <img align="right"
         src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical"
-        height="155px" width="47%" />
+        height="155px" width="27%" />
 
     <div>
         </br>
