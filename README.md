@@ -10,7 +10,7 @@
         src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
         alt="Santosh0805" /> </p>
 
-        <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="450px"  height="250px" />
+        <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="250px"  height="150px" />
 
 
 I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough
@@ -22,16 +22,12 @@ developer.
 <br>
 
 - 💼 How to reach me **(mailto:sahum3378@gmail.com)** :)
-<br>
 - 💬 ask me about anything, I would love to help :)
-<br>
 - 🖇️ All of my projects are available at:- <a href="https://santosh0805.github.io/Portfolio-/"
     target="_blank">Portfolio</a>
 
-
-
 <h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
+<p align="left">
     <a href="https://twitter.com/uttammane175677" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="uttammane175677" height="30" width="40" /></a>
@@ -41,7 +37,7 @@ developer.
     <a href="https://instagram.com/mr_uttam_mane_101" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="mr_uttam_mane_101" height="30" width="40" /></a>
-</p> -->
+</p>
 
 <hr>
 <hr>
@@ -60,13 +56,14 @@ developer.
     <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15" />
 </p></span>
 
+
 <div>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&theme=radical"
         alt="Santosh Kumar" height="250px" width="47%" />
 
     <img align="right"
         src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical"
-        height="255px" width="47%" />
+        height="155px" width="47%" />
 
     <div>
         </br>
@@ -74,7 +71,7 @@ developer.
         <div>
             <img align="left"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh0805&theme=radical&langs_count=8"
-                alt="Santosh Kumar " height="360px" width="100%" />
+                alt="Santosh Kumar " height="260px" width="100%" />
 
             <img
                 src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
