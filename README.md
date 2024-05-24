@@ -4,16 +4,13 @@
     experiences.</h3>
 
 <!-- <img align="right" alt="coding" width="410"
-    <!-- src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
+    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
         alt="Santosh0805" /> </p>
 
-        <img align="right" alt="coding" width="410"
-    src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-        <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="250px"  height="150px" />
+        <img align="right" alt="GIF" src="https://www.vkreate.in/storage/services_image/2019-10-02-17-55-54-5d94e4aa809b3-web-development.gif" width="350px" height="250px"  />
 
 
 I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough
@@ -49,12 +46,10 @@ developer.
 <p align="center">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55" />
     <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="55" height="55" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55" />
     <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55" />
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"
-        marginleft="15" />
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15" />
     <img src="https://img.icons8.com/?size=96&id=r9QJ0VFFrn7T&format=png" alt="chakra" width="55" height="55" />
     <img src="https://www.svgrepo.com/show/354048/material-ui.svg" alt="GIT" width="55" height="55" marginleft="15" />
 </p></span>
@@ -66,7 +61,7 @@ developer.
 
     <img align="right"
         src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical"
-        height="155px" width="27%" />
+        height="155px" width="40%" />
 
     <div>
         </br>
