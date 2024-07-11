@@ -1,53 +1,30 @@
 <h1>Hey there 👋 </h1>
 <h3>Hi, I'm Santosh kumar, I am a passionate Full Stack Web Developer with expertise in both frontend and backend
     technologies. My goal is to create seamless and responsive web applications that deliver exceptional user
-    experiences.</h3>
-
-
-
-<p align="left"> <img
-        src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat"
-        alt="Santosh0805" /> </p>
-
-<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px" />
+    experiences.</h3> 
+    <img src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat" alt="Santosh0805" /></p>
+    
+<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px"/>
 I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
-  
 
-<br>
-<br>
 
 - 💼 How to reach me **(mailto:sahum3378@gmail.com)** :)
 - 💬 ask me about anything, I would love to help :)
 - 🖇️ All of my projects are available at:- <a href="https://santosh0805.github.io/Portfolio-/"
     target="_blank">Portfolio</a>
+    
+# 🌐 Socials:
+<a href="https://www.linkedin.com/in/santosh-kumar-113503188/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
+<a href="https://www.instagram.com/mrsantosh.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
+<a href="https://twitter.com/Ssantosh1998"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://twitter.com/Ssantosh1998" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-            alt="Santosh kumar" height="30" width="40" /></a>
-    <a href="https://www.linkedin.com/in/santosh-kumar-113503188/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="Santosh Kumar" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/mrsantosh.__/" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="Santosh Kumar" height="30" width="40" /></a>
-</p>
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-<hr>
-<hr>
-<h2 align="center"><b>Languages and Tools:</b></h2>
-<br>
-<p align="center">
-    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55" />
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15" />
-    <img src="https://img.icons8.com/?size=96&id=r9QJ0VFFrn7T&format=png" alt="chakra" width="55" height="55" />
-</p></span>
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
 <div>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&theme=radical" alt="santosh kumar" height="250px" width="47%" />
