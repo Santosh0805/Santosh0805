@@ -5,18 +5,20 @@
     <img src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat" alt="Santosh0805" /></p>
     
 <img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px"/>
-I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.
+<p>I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
 
-- 💼 How to reach me **(mailto:sahum3378@gmail.com)** :)
+- 💼 How to reach me **(sahum3378@gmail.com)**
+- 🖇️ All of my projects are available at:- **(<a href="https://santosh0805.github.io/Portfolio-/"
+    target="_blank">Portfolio</a>)**
 - 💬 ask me about anything, I would love to help :)
-- 🖇️ All of my projects are available at:- <a href="https://santosh0805.github.io/Portfolio-/"
-    target="_blank">Portfolio</a>
     
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/santosh-kumar-113503188/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
 <a href="https://www.instagram.com/mrsantosh.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
 <a href="https://twitter.com/Ssantosh1998"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=+919820248153&text=Hello%20there!"><img src="https://img.shields.io/badge/Whatsapp.svg?logo=Whatsapp&logoColor=white" height="30" /></a>
+
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
