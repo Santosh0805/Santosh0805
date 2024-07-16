@@ -17,7 +17,10 @@
 <a href="https://www.linkedin.com/in/santosh-kumar-113503188/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
 <a href="https://www.instagram.com/mrsantosh.__/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" /></a>
 <a href="https://twitter.com/Ssantosh1998"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" height="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+919820248153&text=Hello%20there!"><img src="https://img.shields.io/badge/Whatsapp.svg?logo=Whatsapp&logoColor=white" height="30" /></a>
+<a href="https://api.whatsapp.com/send?phone=9820248153&text=Hello How may help you /Hello%20there!"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?logo=whatsapp&logoColor=white" height="30" /></a>
+
+
+
 
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
