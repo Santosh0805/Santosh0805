@@ -33,6 +33,5 @@
     
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh0805&theme=radical&langs_count=8" alt="santosh kumar" height="260px" width="100%"/>
-  
-    
    <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mradulgarg&" alt="mradulgarg" /></p>
