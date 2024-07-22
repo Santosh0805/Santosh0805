@@ -11,9 +11,8 @@
 
 
 - 💼 How to reach me **(sahum3378@gmail.com)**
-- 🖇️ All of my projects are available at:- **(<a href="https://portfolio-one-kohl-24.vercel.app/"
-    target="_blank">Portfolio</a>)**
-- 💬 ask me about anything, I would love to help :)
+- 🖇️ Visit My Portfolio:- **(<a href="https://portfolio-one-kohl-24.vercel.app/"
+    target="_blank"></a>)**
     
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/santosh-kumar-113503188/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
