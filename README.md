@@ -4,7 +4,7 @@
     experiences.</h3> 
     <img src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat" alt="Santosh0805" /></p>
     
-<img align="right" alt="GIF" src="https://miro.medium.com/max/700/0*FGD6BUzzZs1VJLuY.gif" width="500px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif" width="450px"/>
 <p>I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
 
