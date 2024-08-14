@@ -1,3 +1,6 @@
+
+![Beige and White Modern LinkedIn Background Photo (1)](https://github.com/user-attachments/assets/65647f88-d62d-4e11-9234-4c44d7c4e220)
+
 <h1 align="center">Hello 👋,there </h1>
 <h3>Hi, I'm Santosh kumar, I am a passionate Full Stack Web Developer with expertise in both frontend and backend
     technologies. My goal is to create seamless and responsive web applications that deliver exceptional user
