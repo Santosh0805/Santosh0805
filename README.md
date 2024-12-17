@@ -32,15 +32,15 @@
 
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />
 
-
-
 <div>
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&theme=radical" alt="santosh kumar" height="250px" width="47%" />
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&theme=radical" height="255px" width="47%"/>
-  <div>
+</div>
+      
     </br>
-    
+      
   <div>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosh0805&theme=radical&langs_count=8" alt="santosh kumar" height="260px" width="100%"/>
+      
    <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
   </div>
