@@ -35,6 +35,6 @@
 <div>    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Santosh0805&show_icons=true&locale=en&layout=compact" alt="Santosh0805" height="250px" width="40%" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Santosh0805&show_icons=true&locale=en" alt="Santosh0805" height="250px" width="45%" /></p
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&" alt="Santosh0805"  height="250px" width="45%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Santosh0805&" alt="Santosh0805" /></p>
 </div>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
