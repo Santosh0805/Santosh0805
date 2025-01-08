@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hello 👋,there </h1>
-<h3>Hi, I'm Santosh kumar, I am a passionate Full Stack Web Developer with expertise in both frontend and backend
+<h3>Hi, I am a passionate Full Stack Web Developer with expertise in both frontend and backend
     technologies. My goal is to create seamless and responsive web applications that deliver exceptional user
     experiences.</h3> 
     <img src="https://komarev.com/ghpvc/?username=Santosh0805&label=Profile%20views&color=0e75b6&style=flat" alt="Santosh0805" /></p>
