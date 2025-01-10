@@ -14,9 +14,9 @@
 <p>I'm a solution-driven Full Stack Web Developer. Highly passionate about building web applications and confident enough to learn new things with a curious mind, an absolute passion for coding, and the ability to write clean and efficient code. I look forward to taking up a challenging and responsible role within an organization as a full-stack web developer.</p>
 
 
-- 🖇️ Visit My Portfolio:- **<a href="https://portfolio-santosh-24.vercel.app/"
-    target="_blank">https://portfolio-santosh-24.vercel.app/</a>**
-- 💼 How to reach me :- **sahum3378@gmail.com**
+- 🖇️ Visit My Portfolio:- **<a href="https://portfolio-one-kohl-24.vercel.app/"
+    target="_blank">https://portfolio-one-kohl-24.vercel.app/</a>**
+- 💼 How to reach me:- **sahum3378@gmail.com**
     
 # 🌐 Socials:
 <a href="https://www.linkedin.com/in/santosh-kumar-113503188/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="30" /></a>
